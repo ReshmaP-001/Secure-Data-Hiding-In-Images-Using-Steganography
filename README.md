@@ -16,5 +16,18 @@ This project involves creating a Python-based steganography tool that allows use
    - OpenCV
      
 # 📦 Installation
+
+Ensure you have Python 3.x installed, then install OpenCV:
+
+     pip install opencv-python
+
+Clone the repository:
+
+    git clone https://github.com/Nishant9592/SteganoCrypt.git
+
+
+
+ 
+
  
 
