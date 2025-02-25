@@ -58,6 +58,10 @@ Clone the repository:
    - If the passcode is incorrect, the message cannot be retrieved.
    - Large messages may not fit in small images — use a high-resolution image.
 
+##Screenshot
+![Screenshot 2025-02-25 171230](https://github.com/user-attachments/assets/df20b3bc-d503-4f8c-b6eb-5d075a3769f6)
+
+
 ## 📜 License
 
    - This project is open-source and free to use!
