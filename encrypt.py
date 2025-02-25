@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Cover Image
-img = cv2.imread("images.jpg")  # Ensure this image exists in the same folder
+img = cv2.imread("images.jpeg")  # Ensure this image exists in the same folder
 if img is None:
     print("Cover image to encrypt message is not found!")
     exit()
