@@ -32,9 +32,8 @@ Clone the repository:
 # ⚡ Usage
 
 ### 🔒 Encrypt a Message into an Image
-    
-      - python encrypt.py
-      + python3 encrypt.py
+   -       python encrypt.py
+   +      python3 encrypt.py
 
    - Enter the image path (supports .png, .jpg, .jpeg).
    - Enter the output file name (must be .png).
