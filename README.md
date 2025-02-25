@@ -1,8 +1,8 @@
-# Image Steganography using Python
+# 🖼️🔒Image Steganography using Python
 
 Image steganography is the technique of hiding a secret message within an image in such a way that the original image remains unaltered to the human eye.
 
-## Overview
+## 🔍Overview
 
 This project involves creating a Python-based steganography tool that allows users to securely embed text messages within cover images. Using a user-provided password and the encryption program `encrypt.py`, the tool encrypts and hides the message, producing an encrypted image named `EncryptedImage.png`. A separate decryption program `decrypt.py` will retrieve the hidden message using the correct password. This solution ensures confidential communication via image-based steganography.
 
