@@ -29,13 +29,26 @@ Clone the repository:
 
 ### 🔒 Encrypt a Message into an Image
     
-    python3 encryption.py
+    python3 encrypt.py
 
    - Enter the image path (supports .png, .jpg, .jpeg).
    - Enter the output file name (must be .png).
    - Provide the secret message to hide.
    - Set a passcode for protection.
    - The encrypted image is saved!
+
+### 🔑 Decrypt a Hidden Message
+
+    python3 decrypt.py
+
+   - Enter the path of the encrypted image.
+   - Enter the correct passcode.
+   - Enter the message length (starts from 1)
+   - The secret message is revealed!
+
+
+
+
 
 
 
