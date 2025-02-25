@@ -32,8 +32,8 @@ Clone the repository:
 # ⚡ Usage
 
 ### 🔒 Encrypt a Message into an Image
-   -       python encrypt.py
-   +      python3 encrypt.py
+
+     python3 encrypt.py
 
    - Enter the image path (supports .png, .jpg, .jpeg).
    - Enter the output file name (must be .png).
@@ -43,8 +43,7 @@ Clone the repository:
 
 ### 🔑 Decrypt a Hidden Message
 
-    - python decrypt.py
-    + python3 decrypt.py
+     python3 decrypt.py
 
    - Enter the path of the encrypted image.
    - Enter the correct passcode.
@@ -57,8 +56,11 @@ Clone the repository:
    - Ensure that the cover image exists in the same folder as the programs.
    - The output image must be saved in PNG format to preserve the hidden data.
    - If the passcode is incorrect, the message cannot be retrieved.
-   - Large messages may not fit in small images—use a high-resolution image.
+   - Large messages may not fit in small images — use a high-resolution image.
 
+## 📜 License
+
+   - This project is open-source and free to use!
 
 
 
