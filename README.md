@@ -23,7 +23,22 @@ Ensure you have Python 3.x installed, then install OpenCV:
 
 Clone the repository:
 
-    git clone https://github.com/Nishant9592/SteganoCrypt.git
+    https://github.com/ReshmaP-001/Secure-Data-Hiding-In-Images-Using-Steganography.git
+
+# ⚡ Usage
+
+### 🔒 Encrypt a Message into an Image
+    
+    python3 encryption.py
+
+   - Enter the image path (supports .png, .jpg, .jpeg).
+   - Enter the output file name (must be .png).
+   - Provide the secret message to hide.
+   - Set a passcode for protection.
+   - The encrypted image is saved!
+
+
+
 
 
 
